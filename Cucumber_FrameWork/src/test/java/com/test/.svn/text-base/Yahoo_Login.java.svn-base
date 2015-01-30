@@ -1,0 +1,120 @@
+package com.compugain.test;
+
+import java.util.Map;
+import java.util.Properties;
+
+import org.apache.log4j.Logger;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.compugain.Utils.EmailUtility;
+import com.compugain.Utils.WebElements;
+import com.compugain.beanfactory.BeanFactory;
+import com.compugain.beanfactory.PropertiesFactory;
+import com.compugain.setup.Setup;
+
+import cucumber.api.java.After;
+import cucumber.api.java.Before;
+import cucumber.api.java.en.And;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+
+public class Yahoo_Login implements Setup {
+
+	private WebDriver driver = null;
+
+	private WebDriverWait driverWait;
+	Properties object = null;
+	BeanFactory beanfactory = new BeanFactory();
+
+	PropertiesFactory propertiesfactory = new PropertiesFactory();
+
+	WebElements webelements = new  WebElements(driver, driverWait);
+ 
+	EmailUtility emailutil=new EmailUtility(driver, driverWait);
+		
+	String emailvalue;
+	private static Logger logger = Logger.getLogger(Yahoo_Login.class);
+
+	/*
+	 * @Before public void setUP(){
+	 * 
+	 * if(object==null){ try{
+	 *//**
+	 * intializing object.properties file
+	 */
+	/*
+	 * 
+	 * object = new Properties(); FileInputStream fs = new
+	 * FileInputStream(System.getProperty("user.dir")+sOBJECT_PROPERTIESPATH);
+	 * object.load(fs);
+	 * System.out.println("****"+object.getProperty("yahoousername")); }catch(
+	 * Exception e){ System.out.println("Error on intialising property files");
+	 * }
+	 * 
+	 * } }
+	 */
+	private Map<String, String> userdetailsmap;
+	private Map<String, String> PropertiesMap;
+
+	@Before
+	public void setUP() {
+
+		userdetailsmap = beanfactory.getUserDetails();
+		PropertiesMap = propertiesfactory.getObjectProperties();
+		emailvalue=	beanfactory.emailRandomValuesGeneration();
+		
+	}
+	
+	@Given("^I go to \"([^\"]*)\" on \"([^\"]*)\"$")
+	public void I_go_to(String url, String Browser) throws Exception {
+		System.out.println("I am going to " + url + " on " + Browser);
+		logger.info("The driver value is " + Browser);
+		logger.info("The url value is " + url);
+		webelements.openBrowser(Browser);
+		webelements.navigateBrowser(url);
+	}
+	
+	
+	@And("^I enter text into \"([^\"]*)\" as \"([^\"]*)\"$")
+	public void I_enter_text_into(String objectprop, String text)
+			throws Exception {
+		webelements.enterText(PropertiesMap.get(objectprop), driverWait,
+				userdetailsmap.get(text), webelements.getpageTitle());
+	}
+	
+	@And("^I create user \"([^\"]*)\"$")
+	
+	public void I_Create_users(String users){
+		webelements.creatingusers(users);
+		
+	}
+
+	@And("^I click on \"([^\"]*)\"$")
+	public void I_click_on(String objectprop) {
+		System.out.println("clicking on" + objectprop);
+		Map<String, String> PropertiesMap = propertiesfactory
+				.getObjectProperties();
+		webelements.click(PropertiesMap.get(objectprop));
+	}
+	
+	@Then("^Search should be \"([^\"]*)\"$")
+	public void Search_should_be(String expectedResult) {
+		System.out.println("Search" + expectedResult);
+		/*boolean result = webelements.isDisplayed(webElement)
+		String actualResult = null;
+		
+		  if(result) actualResult="success"; else actualResult="failure";
+		  Assert.assertEquals(expectedResult, actualResult);*/
+		 
+	}
+
+	
+	
+	@After
+	public void browserclose(){
+	
+		webelements.browserQuit();
+	}
+	
+}

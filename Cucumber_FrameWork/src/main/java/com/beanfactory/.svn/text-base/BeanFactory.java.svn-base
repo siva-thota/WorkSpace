@@ -1,0 +1,90 @@
+package com.compugain.beanfactory;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.apache.commons.lang3.RandomStringUtils;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.compugain.Utils.WebElements;
+import com.compugain.dao.LoginBeanPage;
+
+
+public class BeanFactory {
+
+	
+	/*public void loginPageBean(LoginBeanPage loginbean){
+		
+		String username="rohith.kakumani";
+		String password="Compugain@123";
+		loginbean.setUsername(username);
+		loginbean.setPassword(password);
+		
+		
+	}*/
+
+	public String emailRandomValuesGeneration( ){
+	    
+	return	RandomStringUtils.randomAlphabetic(5).toLowerCase()+"@sharklasers.com";
+	    
+	  }
+	
+
+	public Map<String, String> getUserDetails(){
+		
+		Map<String, String> map=new HashMap<String, String>();
+		map.put("username", "rohith.kakumani");
+		map.put("password", "Welcome123");
+		/*Salesforce*/
+		  
+		  map.put("salesforceRegfirstname", "rohith");
+		  map.put("salesforceReglastname", "kakumani");
+		  map.put("salesforceRegemail", "saleforcestestmale@sharklasers.com");
+		  map.put("salesforceRegphone", "9999999999");
+		  map.put("salesforceRegcompany", "compugain");
+		  map.put("salesforceRegemployeesdropdownlocator", "1 - 100 employees");
+		  map.put("salesforceRegepostalcode", "500085");
+		  
+		  String emailvalue= emailRandomValuesGeneration();
+		  
+		  //GuerillaEmail Data
+		  map.put("emailRandomValue",emailvalue );
+		  
+		  
+		  
+		  
+		  
+		//carwale
+		  
+		  map.put("carwaleusername", "sudheer");
+		 
+		  
+		  System.out.println("email value is"+emailvalue);
+		  map.put("carwaleuseremail", emailvalue);
+		  map.put("carwaleuserconfirmemail",emailvalue);
+		  map.put("carwaleuserpassword", "testing123");
+		  map.put("carwaleuserconfirmpassword","testing123");
+		 
+	//carwale forgot password
+		  
+		  map.put("carwaleforgotpasswordmail", emailvalue);
+		 
+		  
+		return map;
+		
+		/*JIhQC@sharklasers.com
+		JIhQC@sharklasers.com
+*/	}
+	
+	/*public void MailinatorBean(MailinatorBeanPage beansPage) {
+		String welcomelink = "Welcome";
+		String resetlink = "Please reset your";
+		beansPage.setWelcomelink(welcomelink);
+		beansPage.setResetlink(resetlink);
+	}*/
+	
+	
+	
+	
+}

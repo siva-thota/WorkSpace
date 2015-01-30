@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ExostarAutomation/!svn/ver/257/Cucumber/src/main/java/com/compugain/Utils
+END
+Logfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ExostarAutomation/!svn/ver/257/Cucumber/src/main/java/com/compugain/Utils/Logfile.java
+END
+EmailUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ExostarAutomation/!svn/ver/257/Cucumber/src/main/java/com/compugain/Utils/EmailUtility.java
+END
+Email.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ExostarAutomation/!svn/ver/257/Cucumber/src/main/java/com/compugain/Utils/Email.java
+END
+WaitForElements.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ExostarAutomation/!svn/ver/257/Cucumber/src/main/java/com/compugain/Utils/WaitForElements.java
+END
+WebElements.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ExostarAutomation/!svn/ver/257/Cucumber/src/main/java/com/compugain/Utils/WebElements.java
+END
+Webconnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ExostarAutomation/!svn/ver/257/Cucumber/src/main/java/com/compugain/Utils/Webconnector.java
+END

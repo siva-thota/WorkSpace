@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Unibet_Runner" project="Cucumber_Basic_FrameWork" tests="37" started="37" failures="0" errors="2" ignored="0">
+  <testsuite name="com.test.Unibet_Runner" time="102.849">
+    <testsuite name="Feature: Unibet JoinUs" time="38.994">
+      <testsuite name="Scenario: Unibet registration" time="38.994" incomplete="true">
+        <error>org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'Welcome to Unibet!')]"}
+Command duration or timeout: 20.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'Thotas-PC', ip: '10.112.58.172', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=32.0.3, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 860fad25-9287-4623-bd24-ac71aac874db&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)&#13;
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)&#13;
+	at com.Utils.WebElements.isDisplayed(WebElements.java:335)&#13;
+	at com.test.Unibet_StepDefinition.Search_should_be(Unibet_StepDefinition.java:92)&#13;
+	at ✽.Then Search should be "unibetwelcometxt"(src/main/resources/com/unibet/unibetNegativeScenario.Feature:25)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'Welcome to Unibet!')]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'Thotas-PC', ip: '10.112.58.172', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: driver.version: unknown&#13;
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/Thota%27s/AppData/Local/Temp/anonymous7461489669284504591webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641:133)&#13;
+	at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/Users/Thota%27s/AppData/Local/Temp/anonymous7461489669284504591webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548:5)&#13;
+&#13;
+</error>
+        <testcase name="Given I go to &quot;http://bet.unibet.co.uk&quot; on &quot;firefox&quot;" classname="Scenario: Unibet registration" time="1.09"/>
+        <testcase name="And I click on &quot;unibetjoinuslocator&quot;" classname="Scenario: Unibet registration" time="4.624"/>
+        <testcase name="And I enter text into &quot;unibetfirstNametextboxlocator&quot; as &quot;unibetfirstName&quot;" classname="Scenario: Unibet registration" time="0.96"/>
+        <testcase name="And I enter text into &quot;unibetuserNametextboxlocator&quot; as &quot;unibetuserName&quot;" classname="Scenario: Unibet registration" time="0.741"/>
+        <testcase name="And I enter text into &quot;unibetlastNametextboxlocator&quot; as &quot;unibetlastName&quot;" classname="Scenario: Unibet registration" time="0.38"/>
+        <testcase name="And I enter text into &quot;unibetstreettextboxlocator&quot; as &quot;unibetstreet&quot;" classname="Scenario: Unibet registration" time="0.6"/>
+        <testcase name="And I enter text into &quot;unibetemailtextboxlocator&quot; as &quot;unibetemail&quot;" classname="Scenario: Unibet registration" time="0.33"/>
+        <testcase name="And I enter text into &quot;unibetpostalCodetextbuttonlocator&quot; as &quot;unibetpostalCode&quot;" classname="Scenario: Unibet registration" time="0.21"/>
+        <testcase name="And I enter text into &quot;unibetcitytextboxlocator&quot; as &quot;unibetcity&quot;" classname="Scenario: Unibet registration" time="0.56"/>
+        <testcase name="And I enter text into &quot;unibetpasswordtextboxlocator&quot; as &quot;unibetpassword&quot;" classname="Scenario: Unibet registration" time="0.61"/>
+        <testcase name="And I enter text into &quot;unibetconfirm-passwordtextboxlocator&quot; as &quot;unibetconfirm-password&quot;" classname="Scenario: Unibet registration" time="0.4"/>
+        <testcase name="And I enter text into &quot;unibetphoneNumbertextboxlocator&quot; as &quot;unibetphoneNumber&quot;" classname="Scenario: Unibet registration" time="0.321"/>
+        <testcase name="And I_select_value_from_drop_down_is into &quot;unibetdaylocator&quot; as &quot;unibetday&quot;" classname="Scenario: Unibet registration" time="0.44"/>
+        <testcase name="And I_select_value_from_drop_down_is into &quot;unibetmonthlocator&quot; as &quot;unibetmonth&quot;" classname="Scenario: Unibet registration" time="0.23"/>
+        <testcase name="And I_select_value_from_drop_down_is into &quot;unibetyearlocator&quot; as &quot;unibetyear&quot;" classname="Scenario: Unibet registration" time="0.4"/>
+        <testcase name="And I enter text into &quot;unibetsecurityanswerlocator&quot; as &quot;unisecurityanswer&quot;" classname="Scenario: Unibet registration" time="0.111"/>
+        <testcase name="And I click on &quot;unibetgenderradioButtonlocatormale&quot;" classname="Scenario: Unibet registration" time="0.721"/>
+        <testcase name="And I click on &quot;unibetbonusyeslocator&quot;" classname="Scenario: Unibet registration" time="0.91"/>
+        <testcase name="And I click on &quot;unibetagreetermslocator&quot;" classname="Scenario: Unibet registration" time="5.02"/>
+        <testcase name="And I_am_waiting" classname="Scenario: Unibet registration" time="0.161"/>
+        <testcase name="And I click on &quot;unibetsubmitcontinuebuttonlocator&quot;" classname="Scenario: Unibet registration" time="20.175"/>
+        <testcase name="Then Search should be &quot;unibetwelcometxt&quot;" classname="Scenario: Unibet registration" time="0.0">
+          <error>org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'Welcome to Unibet!')]"}
+Command duration or timeout: 20.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'Thotas-PC', ip: '10.112.58.172', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{applicationCacheEnabled=true, rotatable=false, handlesAlerts=true, databaseEnabled=true, version=32.0.3, platform=WINDOWS, nativeEvents=true, acceptSslCerts=true, webStorageEnabled=true, locationContextEnabled=true, browserName=firefox, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 860fad25-9287-4623-bd24-ac71aac874db&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)&#13;
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)&#13;
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)&#13;
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)&#13;
+	at com.Utils.WebElements.isDisplayed(WebElements.java:335)&#13;
+	at com.test.Unibet_StepDefinition.Search_should_be(Unibet_StepDefinition.java:92)&#13;
+	at ✽.Then Search should be "unibetwelcometxt"(src/main/resources/com/unibet/unibetNegativeScenario.Feature:25)&#13;
+Caused by: org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":"//h1[contains(text(),'Welcome to Unibet!')]"}
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.44.0', revision: '76d78cf323ce037c5f92db6c1bba601c2ac43ad8', time: '2014-10-23 13:11:40'
+System info: host: 'Thotas-PC', ip: '10.112.58.172', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_25'
+Driver info: driver.version: unknown&#13;
+	at &lt;anonymous class&gt;.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/Thota%27s/AppData/Local/Temp/anonymous7461489669284504591webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:9641:133)&#13;
+	at &lt;anonymous class&gt;.fxdriver.Timer.prototype.setTimeout/&lt;.notify(file:///C:/Users/Thota%27s/AppData/Local/Temp/anonymous7461489669284504591webdriver-profile/extensions/fxdriver@googlecode.com/components/driver-component.js:548:5)&#13;
+&#13;
+</error>
+        </testcase>
+      </testsuite>
+    </testsuite>
+    <testsuite name="Feature: Unibet Search" time="47.744">
+      <testsuite name="Scenario: Unbet Search" time="5.586">
+        <testcase name="Given I go to &quot;http://bet.unibet.co.uk&quot; on &quot;firefox&quot;" classname="Scenario: Unbet Search" time="0.881"/>
+        <testcase name="And I click on &quot;unisearchButton&quot;" classname="Scenario: Unbet Search" time="0.28"/>
+        <testcase name="And I enter text into &quot;unisearchtxtboxlocator&quot; as &quot;unisearchtxt&quot;" classname="Scenario: Unbet Search" time="0.251"/>
+        <testcase name="And I click on &quot;unibetsearchButton&quot;" classname="Scenario: Unbet Search" time="3.701"/>
+        <testcase name="Then Search should be &quot;unibetsearchresult&quot;" classname="Scenario: Unbet Search" time="0.473"/>
+      </testsuite>
+      <testsuite name="Scenario: Special Character Search" time="5.555">
+        <testcase name="Given I go to &quot;http://bet.unibet.co.uk&quot; on &quot;firefox&quot;" classname="Scenario: Special Character Search" time="0.871"/>
+        <testcase name="And I click on &quot;unisearchButton&quot;" classname="Scenario: Special Character Search" time="0.22"/>
+        <testcase name="And I enter text into &quot;unisearchtxtboxlocator&quot; as &quot;specialcharacter1&quot;" classname="Scenario: Special Character Search" time="0.221"/>
+        <testcase name="And I click on &quot;unibetsearchButton&quot;" classname="Scenario: Special Character Search" time="3.822"/>
+        <testcase name="Then Search should be &quot;specialcharacter1result&quot;" classname="Scenario: Special Character Search" time="0.421"/>
+      </testsuite>
+      <testsuite name="Scenario: No results for Invalid Search" time="4.968">
+        <testcase name="Given I go to &quot;http://bet.unibet.co.uk&quot; on &quot;firefox&quot;" classname="Scenario: No results for Invalid Search" time="0.921"/>
+        <testcase name="And I click on &quot;unisearchButton&quot;" classname="Scenario: No results for Invalid Search" time="0.45"/>
+        <testcase name="And I enter text into &quot;unisearchtxtboxlocator&quot; as &quot;invalidsearchtxt&quot;" classname="Scenario: No results for Invalid Search" time="0.251"/>
+        <testcase name="And I click on &quot;unibetsearchButton&quot;" classname="Scenario: No results for Invalid Search" time="2.952"/>
+        <testcase name="Then Search should be &quot;noresults&quot;" classname="Scenario: No results for Invalid Search" time="0.394"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

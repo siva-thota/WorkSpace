@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Unibet_Runner" project="Cucumber_Basic_FrameWork" tests="1" started="1" failures="0" errors="1" ignored="0">
+  <testsuite name="com.test.Unibet_Runner" time="0.002">
+    <testcase name="initializationError" classname="com.test.Unibet_Runner" time="0.002">
+      <error>gherkin.TagExpression$BadTagException: Bad tag: "unibet1"&#13;
+	at gherkin.TagExpression$TagExp.&lt;init&gt;(TagExpression.java:122)&#13;
+	at gherkin.TagExpression.add(TagExpression.java:57)&#13;
+	at gherkin.TagExpression.&lt;init&gt;(TagExpression.java:17)&#13;
+	at gherkin.formatter.TagFilter.&lt;init&gt;(TagFilter.java:14)&#13;
+	at gherkin.formatter.FilterFormatter.detectFilter(FilterFormatter.java:64)&#13;
+	at gherkin.formatter.FilterFormatter.&lt;init&gt;(FilterFormatter.java:41)&#13;
+	at cucumber.runtime.FeatureBuilder.parse(FeatureBuilder.java:126)&#13;
+	at cucumber.runtime.model.CucumberFeature.loadFromFeaturePath(CucumberFeature.java:93)&#13;
+	at cucumber.runtime.model.CucumberFeature.load(CucumberFeature.java:54)&#13;
+	at cucumber.runtime.model.CucumberFeature.load(CucumberFeature.java:34)&#13;
+	at cucumber.runtime.RuntimeOptions.cucumberFeatures(RuntimeOptions.java:151)&#13;
+	at cucumber.api.junit.Cucumber.&lt;init&gt;(Cucumber.java:63)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.internal.builders.AnnotatedBuilder.buildRunner(AnnotatedBuilder.java:29)&#13;
+	at org.junit.internal.builders.AnnotatedBuilder.runnerForClass(AnnotatedBuilder.java:21)&#13;
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)&#13;
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:26)&#13;
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)&#13;
+	at org.junit.internal.requests.ClassRequest.getRunner(ClassRequest.java:26)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.&lt;init&gt;(JUnit4TestReference.java:33)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestClassReference.&lt;init&gt;(JUnit4TestClassReference.java:25)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.createTest(JUnit4TestLoader.java:48)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestLoader.loadTests(JUnit4TestLoader.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:444)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

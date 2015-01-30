@@ -1,0 +1,13 @@
+package com.compugain.setup;
+
+public interface Setup {
+	//File Paths
+	public final String sOBJECT_PROPERTIESPATH="/src/main/java/com/compugain/config/object.properties";
+	public final String sCHROMEPATH="/src/test/resources/Browser_Binaries/Chrome/chromedriver.exe";
+	public final String sIEPATH="/src/test/resources/Browser_Binaries/IE/IEDriverServer_X64.exe";
+	public final String sCGTTLOGINFEATUREE="src/main/resources/com/compugain/test/cgttlogin.feature";
+	public final String sCGTTMANAGETIMESHEET="src/main/resources/com/compugain/test1/cgttManageTimeSheet.feature";
+	public final String sSALESFORCEREGISTARTIONFEATURE="src/main/resources/com/compugain/salesforceApp/Salesforce_Reg.feature";
+	public final String sCARWALEFEATURE="src/main/resources/com/carwale/test/carwale.feature";
+	
+}

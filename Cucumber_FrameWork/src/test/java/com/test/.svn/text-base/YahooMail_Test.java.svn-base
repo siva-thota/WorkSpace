@@ -1,0 +1,18 @@
+package com.compugain.test;
+import org.junit.runner.RunWith;
+
+import com.compugain.setup.Setup;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+@RunWith(Cucumber.class)
+
+//@Cucumber.Options(format={"html:output"},features={Setup.sCGTTMANAGETIMESHEET})
+//@Cucumber.Options(monochrome = true, format = {"html:target/cucumber-html","junit:target/cucumber-junit/Webpage.xml"},features={Setup.sCGTTMANAGETIMESHEET})
+//@Cucumber.Options(format={"html:output","json:output/cucumber-report.json"},features={Setup.sCGTTMANAGETIMESHEET,Setup.sCARWALEFEATURE})
+@CucumberOptions(monochrome = true,format={"rerun:rerun.txt","json:target/json-report.json", "junit:target/junit-report.xml", "html:target/html-report"})
+//@CucumberOptions(format={"html:output"})
+public class YahooMail_Test implements Setup {
+		
+}

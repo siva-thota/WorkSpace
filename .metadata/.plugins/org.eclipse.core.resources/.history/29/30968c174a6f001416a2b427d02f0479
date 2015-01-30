@@ -1,0 +1,142 @@
+package com.Test;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.ws.rs.core.MediaType;
+
+import junit.framework.Assert;
+
+import org.json.JSONException;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+import org.skyscreamer.jsonassert.JSONAssert;
+import org.testng.annotations.Test;
+
+
+
+
+import com.sun.jersey.api.client.Client;
+import com.sun.jersey.api.client.ClientResponse;
+import com.sun.jersey.api.client.WebResource;
+
+public class JerSeyTest {
+
+	/*
+	 * This code is for getting data form server and compare with testdata.jsn file
+	 */
+	@Test(enabled=true,priority=1)
+	public void getData() throws JSONException, FileNotFoundException, IOException, ParseException {
+
+		Client client=Client.create();
+		WebResource resource=client.resource("http://jsonplaceholder.typicode.com/posts/1");
+		String appData=resource.get(String.class);
+		System.out.println(appData);
+		JSONParser p=new JSONParser();
+		//Reading expected Data from the TestData josn file
+		Object obj = p.parse(new FileReader("..//MavenProject/src/test/java/com/Test/testdata.json"));
+		JSONObject test=(JSONObject) obj;
+		System.out.println("*******"+test);
+		//Comapring Expected and Actual Data
+		JSONAssert.assertEquals(appData, test.toString(),false);
+
+	}
+	/*
+	 * This is for Create script
+	 */
+	@Test(enabled=false,priority=3)
+	public void postData() {
+		try {
+			Client client = Client.create();
+
+			WebResource webResource = client
+					.resource("http://jsonplaceholder.typicode.com/posts");
+
+			String input = "{\"title\":\"Test\",\"body\":\"Manoj123\",\"userId\":\"1\"}";
+
+			ClientResponse response = webResource.accept("application/json").type("application/json").post(ClientResponse.class, input);
+
+			if (response.getStatus() != 200) {
+				throw new RuntimeException("Failed : HTTP error code : "
+						+ response.getStatus());
+			}
+
+			System.out.println("Output from Server .... \n");
+			String output = response.getEntity(String.class);
+			System.out.println(output);
+
+		} catch (Exception e) {
+
+			e.printStackTrace();
+
+		}
+
+
+	}
+	// Delete Script
+	@Test(enabled=false,priority=5)
+	public void deleteData() {
+		try {
+			Client client = Client.create();
+
+			WebResource webResource = client
+					.resource("http://jsonplaceholder.typicode.com/posts/1");
+
+			ClientResponse response = webResource.accept("application/json").type(MediaType.APPLICATION_JSON).delete(ClientResponse.class);
+			System.out.println(response.getStatus()+"::::status");
+			if (response.getStatus() == 204) {
+				//throw new RuntimeException("Failed : HTTP error code : "
+				//	+ response.getStatus());
+				System.out.println("Succuss ::: ");
+			}
+
+		} catch (Exception e) {
+
+			e.printStackTrace();
+
+		}
+
+	}
+	//This is for updating data
+	@Test(enabled=false,priority=4)
+	public void updateData() {
+		try {
+			Client client = Client.create();
+
+			WebResource webResource = client
+					.resource("http://jsonplaceholder.typicode.com/posts/1");
+
+			String input = "{\"id\":\"1\",\"title\":\"Testing add\",\"body\":\"ManojtRestClien\",\"userId\":\"1\"}";
+
+			ClientResponse response = webResource.accept("application/json").type(MediaType.APPLICATION_JSON).put(ClientResponse.class,input);
+			System.out.println(response.getStatus()+"::::status");
+			if (response.getStatus() != 200) {
+				throw new RuntimeException("Failed : HTTP error code : "
+						+ response.getStatus());
+				//System.out.println("Succuss");
+			}
+
+			System.out.println("Output from Server .... \n");
+			String output = response.getEntity(String.class);
+			System.out.println(output);
+		} catch (Exception e) {
+
+			e.printStackTrace();
+
+		}	
+	}
+	//Fetech total data form the Application
+	@Test(enabled=false,priority=2)
+	public void fetchData(){
+
+		Client client=Client.create();
+		WebResource resource=client.resource("http://jsonplaceholder.typicode.com/posts/");
+		String appData=resource.get(String.class);
+		System.out.println(appData);
+	}
+}

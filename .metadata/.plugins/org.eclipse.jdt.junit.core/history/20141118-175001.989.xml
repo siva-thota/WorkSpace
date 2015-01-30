@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Unibet_Runner" project="Cucumber_Basic_FrameWork" tests="15" started="15" failures="0" errors="0" ignored="0">
+  <testsuite name="com.test.Unibet_Runner" time="59.922">
+    <testsuite name="Feature: Unibet Search" time="59.922">
+      <testsuite name="Scenario: Unbet Search" time="6.782">
+        <testcase name="Given I go to &quot;http://bet.unibet.co.uk&quot; on &quot;firefox&quot;" classname="Scenario: Unbet Search" time="0.921"/>
+        <testcase name="And I click on &quot;unisearchButton&quot;" classname="Scenario: Unbet Search" time="0.413"/>
+        <testcase name="And I enter text into &quot;unisearchtxtboxlocator&quot; as &quot;unisearchtxt&quot;" classname="Scenario: Unbet Search" time="0.341"/>
+        <testcase name="And I click on &quot;unibetsearchButton&quot;" classname="Scenario: Unbet Search" time="4.685"/>
+        <testcase name="Then Search should be &quot;unibetsearchresult&quot;" classname="Scenario: Unbet Search" time="0.422"/>
+      </testsuite>
+      <testsuite name="Scenario: Special Character Search" time="6.404">
+        <testcase name="Given I go to &quot;http://bet.unibet.co.uk&quot; on &quot;firefox&quot;" classname="Scenario: Special Character Search" time="1.212"/>
+        <testcase name="And I click on &quot;unisearchButton&quot;" classname="Scenario: Special Character Search" time="0.231"/>
+        <testcase name="And I enter text into &quot;unisearchtxtboxlocator&quot; as &quot;specialcharacter1&quot;" classname="Scenario: Special Character Search" time="0.304"/>
+        <testcase name="And I click on &quot;unibetsearchButton&quot;" classname="Scenario: Special Character Search" time="4.236"/>
+        <testcase name="Then Search should be &quot;specialcharacter1result&quot;" classname="Scenario: Special Character Search" time="0.421"/>
+      </testsuite>
+      <testsuite name="Scenario: No results for Invalid Search" time="16.322">
+        <testcase name="Given I go to &quot;http://bet.unibet.co.uk&quot; on &quot;firefox&quot;" classname="Scenario: No results for Invalid Search" time="0.952"/>
+        <testcase name="And I click on &quot;unisearchButton&quot;" classname="Scenario: No results for Invalid Search" time="0.51"/>
+        <testcase name="And I enter text into &quot;unisearchtxtboxlocator&quot; as &quot;invalidsearchtxt&quot;" classname="Scenario: No results for Invalid Search" time="0.329"/>
+        <testcase name="And I click on &quot;unibetsearchButton&quot;" classname="Scenario: No results for Invalid Search" time="14.098"/>
+        <testcase name="Then Search should be &quot;noresults&quot;" classname="Scenario: No results for Invalid Search" time="0.431"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>

@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.MavenExample</groupId>
+  <artifactId>MavenProject</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  <dependency>
+	<groupId>com.sun.jersey</groupId>
+	<artifactId>jersey-client</artifactId>
+	<version>1.18.2</version>
+</dependency>
+  <dependency>
+  <groupId>org.testng</groupId>
+  <artifactId>testng</artifactId>
+  <version>6.1.1</version>
+  <scope>test</scope>
+</dependency>
+
+<dependency>
+    <groupId>org.skyscreamer</groupId>
+    <artifactId>jsonassert</artifactId>
+    <version>1.2.3</version>
+<scope>test</scope>
+</dependency>
+
+<dependency>
+	<groupId>org.json</groupId>
+	<artifactId>json</artifactId>
+	<version>20090211</version>
+</dependency>
+<dependency>
+	<groupId>com.googlecode.json-simple</groupId>
+	<artifactId>json-simple</artifactId>
+	<version>1.1.1</version>
+</dependency>
+
+  </dependencies>
+</project>

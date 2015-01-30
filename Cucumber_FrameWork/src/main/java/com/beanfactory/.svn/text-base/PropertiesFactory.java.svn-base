@@ -1,0 +1,56 @@
+package com.compugain.beanfactory;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class PropertiesFactory {
+
+	public Map<String, String> getObjectProperties(){
+		Map<String, String> map = new HashMap<String, String>();
+		//CGTT
+		map.put("usernamelocator", "//input[@id='ctl00_ContentPlaceHolder1_txtUserName']");
+		//map.put("usernamelocator", "//input[@id='ctl00_ContentPlaceHolder1_txt']");
+		map.put("passwordlocator", "//input[@id='ctl00_ContentPlaceHolder1_txtPassword']");
+		map.put("submitButton", "//input[@id='ctl00_ContentPlaceHolder1_btnSubmit']");
+		map.put("managetimesheetlink", "//a[@id='ctl00_dlMenus_ctl02_HyperLink1']");
+		
+		/*Salesforce*/
+		  map.put("salesforceRegfirstnamelocator", "//input[@id='UserFirstName']");
+		  map.put("salesforceReglastnamelocator", "//input[@id='UserLastName']");
+		  map.put("salesforceRegemaillocator", "//input[@id='UserEmail']");
+		  map.put("salesforceRegphonelocator", "//input[@id='UserPhone']");
+		  map.put("salesforceRegcompanylocator", "//input[@id='CompanyName']");
+		  map.put("salesforceRegemployeesdropdownlocator", "//select[@id='CompanyEmployees']");
+		  map.put("salesforceRegepostalcodelocator", "//input[@id='CompanyPostalCode']");
+		  map.put("salesforceRegsignmeuplocator", "//span[contains(text(),'sign me up')]");
+		  
+		  //Guerilla Email Properties
+		  map.put("guerillatestbutton", "//span[@id='inbox-id']");
+		  map.put("guerillatextbox", "//span[@class='editable button edit-in-progress']/input");
+		  map.put("guerillasetbuttonlocator", "//span[@id='inbox-id']/button[1]");
+		  map.put("guerillaResetPasswordEmail", "//span[contains(text(),'To reset your CarWale password')]");
+		  map.put("guerillaResetlink", "//*[@id='display_email']/div/div[2]/div/p[3]/a");
+		  
+		  
+	//carwale
+		  
+		  map.put("carwaleRegnametextboxlocator", "//input[@id='ctlRegister_txtName']");
+		  map.put("carwaleRegemailtextboxlocator", "//input[@id='ctlRegister_txtEmail']");
+		  map.put("carwaleRegconfirmemailtextboxlocator", "//*[@id='ctlRegister_txtEmailConf']");
+		  map.put("carwaleRegpassword", "//*[@id='ctlRegister_txtPassword']");
+		  map.put("carwaleRegconfirmpassword", "//*[@id='ctlRegister_txtConfirmPassword']");
+		  map.put("carwaleregbuttonlocator", "//*[@id='ctlRegister_btnRegister']");
+		  map.put("carwalelogoutlocator", "//*[@id='login1_hrefLogin']");
+		  map.put("carwaleloginlinklocator", "//*[@id='login_ul']/li[1]/a");
+   //carwale
+		  
+		  map.put("carwaleforgotpassword", "//a[@onclick='forgotPwd()']");
+		  map.put("carwaleforgotpasswordtextboxlocator", "//*[@id='txtForgotPwd']");
+		  map.put("carwaleforgotpasswordsendlocator", "//*[@id='btnSendPwd']");
+		  
+		return map;
+		
+	}
+	
+	
+}

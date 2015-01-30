@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ExostarAutomation/!svn/ver/257/Cucumber/src/test/resources/Browser_Binaries/IE
+END
+IEDriverServer_X64.exe
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ExostarAutomation/!svn/ver/257/Cucumber/src/test/resources/Browser_Binaries/IE/IEDriverServer_X64.exe
+END
+IEDriverServer_X32.exe
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ExostarAutomation/!svn/ver/257/Cucumber/src/test/resources/Browser_Binaries/IE/IEDriverServer_X32.exe
+END

@@ -1,0 +1,363 @@
+2014-11-17 18:07:49,229 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:07:49,229 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:08:37,599 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:08:38,231 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:08:38,241 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:08:38,711 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:08:38,721 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:08:39,082 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 18:09:43,457 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:09:43,467 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:10:36,819 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:10:37,550 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:10:37,560 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:10:38,250 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:10:38,260 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:10:38,823 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 18:15:42,921 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:15:42,921 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:16:32,724 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:16:33,401 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:16:33,411 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:16:34,041 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:16:34,051 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:16:34,482 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 18:17:33,089 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:17:33,089 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:18:23,181 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:18:23,827 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:18:23,827 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:18:24,557 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:18:24,557 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:18:25,108 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 18:21:46,242 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:21:46,252 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:22:39,698 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:22:40,419 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:22:40,419 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:22:41,179 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:22:41,189 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:22:41,740 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 18:28:26,594 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:28:26,594 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:29:27,587 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:29:27,597 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:30:30,537 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:30:31,298 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:30:31,298 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:30:31,888 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:30:31,888 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:30:32,375 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 18:35:25,754 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:35:25,754 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:36:34,419 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:36:35,170 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:36:35,180 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:36:36,278 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:36:36,288 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:36:36,950 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 18:39:27,022 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 18:39:27,022 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 18:40:25,797 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:40:26,448 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 18:40:26,458 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:40:27,118 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 18:40:27,118 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 18:40:27,877 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 12:12:12,443 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:12:12,453 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:13:07,690 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:13:08,481 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 12:13:08,491 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:13:09,191 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 12:13:09,191 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:13:09,642 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 12:13:37,988 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:13:37,990 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:18:31,140 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:18:31,140 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:21:26,512 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:21:26,522 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:24:23,859 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:24:23,869 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:25:22,591 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:25:50,732 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:25:50,732 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:28:17,198 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:28:17,208 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:29:03,500 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:29:24,153 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:29:24,153 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:31:04,726 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:31:04,736 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:31:44,636 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:32:31,010 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:32:31,020 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:33:10,875 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:36:25,559 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:36:25,569 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:40:50,261 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:40:50,271 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:42:47,422 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:42:47,423 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:47:15,380 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:47:15,381 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:52:16,533 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:52:16,534 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:53:02,894 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:53:02,945 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:53:02,945 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:53:50,386 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:53:51,137 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 12:53:51,147 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:53:51,684 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 12:53:51,685 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:53:52,125 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 12:58:40,908 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:58:40,908 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:59:21,573 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:59:29,865 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:59:29,865 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:00:18,243 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 13:00:18,764 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 13:00:18,774 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 13:00:19,301 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 13:00:19,307 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 13:00:19,710 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 12:32:19,045 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:32:19,055 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:32:43,989 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:32:44,390 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:32:44,390 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:33:10,859 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:33:11,210 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 12:33:11,210 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:33:11,580 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 12:33:11,580 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 12:33:11,800 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 12:42:06,894 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:42:06,904 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:42:30,009 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 12:42:30,392 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:42:30,392 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:43:04,187 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:43:04,187 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:48:34,066 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:48:34,076 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 12:49:14,928 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 12:49:14,928 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:26:02,394 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:26:02,404 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:26:41,540 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:26:41,540 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:26:57,148 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:26:57,148 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:40:21,742 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:40:21,746 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:40:42,220 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 13:40:42,611 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:40:42,611 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:41:02,344 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 13:41:02,725 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:41:02,725 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:50:29,878 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:50:29,878 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:50:48,668 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 13:50:49,039 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:50:49,039 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:51:29,837 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:51:29,837 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:53:28,322 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:53:28,332 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:53:48,817 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 13:53:49,258 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:53:49,258 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 13:54:09,371 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 13:54:09,712 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 13:54:09,712 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:02:21,650 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:02:21,660 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:02:41,798 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:02:42,219 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:02:42,219 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:03:00,794 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 14:03:01,177 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:03:01,177 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:03:19,664 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:08:17,071 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:08:17,081 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:08:36,606 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:08:37,187 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:08:37,187 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:09:14,580 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:09:14,580 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:09:36,877 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:10:59,202 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:10:59,202 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:11:38,617 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:11:38,617 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:12:19,401 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:12:19,401 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:12:43,872 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:14:46,641 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:14:46,650 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:15:06,330 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:15:07,084 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:15:07,085 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:15:25,899 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:15:26,271 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:15:26,272 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:15:44,079 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:17:37,844 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:17:37,872 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:18:15,668 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:18:15,668 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:18:35,493 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 14:18:35,884 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:18:35,884 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:18:53,844 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:24:29,650 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:24:29,660 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:24:50,422 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:24:51,165 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:24:51,165 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:25:12,034 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 14:25:12,405 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:25:12,405 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:25:31,914 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:27:21,897 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:27:21,897 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:28:04,282 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:28:04,664 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:28:04,664 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:29:01,252 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 14:29:01,623 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:29:01,623 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:34:22,333 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:51:46,243 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:51:46,243 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:52:09,567 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 14:52:09,998 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:52:09,998 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:52:58,521 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 14:52:58,521 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 14:53:55,957 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 17:50:02,273 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 17:50:02,275 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 17:50:27,130 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 17:50:27,560 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 17:50:27,560 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 17:50:48,389 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 17:50:48,817 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 17:50:48,817 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 17:51:20,264 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 18:04:17,631 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:04:17,635 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:04:45,624 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 18:04:46,088 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:04:46,089 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:05:28,679 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:05:28,680 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:05:56,446 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 18:09:13,988 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:09:13,991 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:09:45,249 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 18:09:46,003 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:09:46,003 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:10:13,246 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 18:10:14,167 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:10:14,167 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:16:04,781 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:16:04,785 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:16:35,520 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 18:16:36,676 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:16:36,677 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:17:05,419 [main] INFO  com.test.Unibet_StepDefinition - test case is failed
+2014-11-18 18:17:05,958 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:17:05,963 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:17:32,721 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 18:25:06,471 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:25:06,474 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:25:46,564 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 18:25:46,958 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 18:25:46,962 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 18:25:47,332 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 18:25:47,334 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 18:25:47,946 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 18:26:16,525 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:26:16,526 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:26:43,856 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 18:26:45,046 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:26:45,046 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:27:12,456 [main] INFO  com.test.Unibet_StepDefinition - Test case is failed
+2014-11-18 18:27:13,333 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 18:27:13,333 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 18:27:41,290 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:19:59,581 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:19:59,591 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:20:27,054 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:20:27,375 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 19:20:27,375 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:20:27,815 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 19:20:27,815 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:20:28,045 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 19:20:55,995 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:20:55,995 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:21:16,767 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:21:17,250 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:21:17,250 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:21:37,883 [main] INFO  com.test.Unibet_StepDefinition - Test case is failed
+2014-11-18 19:21:38,304 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:21:38,304 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:21:59,004 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:23:08,404 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:23:08,414 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:23:36,280 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:23:36,621 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 19:23:36,621 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:23:36,991 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 19:23:36,991 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:23:37,221 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 19:24:05,212 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:24:05,212 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:24:26,832 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:24:27,235 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:24:27,235 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:24:45,681 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:24:46,082 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:24:46,082 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:25:07,331 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:36:55,109 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:36:55,119 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:37:23,468 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:37:23,799 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 19:37:23,799 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:37:24,159 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 19:37:24,159 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:37:24,389 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 19:37:52,394 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:37:52,394 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:38:12,185 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:38:12,876 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:38:12,876 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:38:31,970 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:38:32,353 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:38:32,353 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:38:50,510 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:45:45,234 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:45:45,234 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:46:17,921 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:46:18,212 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-18 19:46:18,222 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:46:18,432 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-18 19:46:18,432 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-18 19:46:18,602 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-18 19:46:46,766 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:46:46,766 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:47:10,357 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:47:10,948 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:47:10,948 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:47:30,527 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed
+2014-11-18 19:47:30,908 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-18 19:47:30,908 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-18 19:47:50,302 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed

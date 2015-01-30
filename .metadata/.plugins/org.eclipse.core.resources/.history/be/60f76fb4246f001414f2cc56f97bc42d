@@ -1,0 +1,27 @@
+Feature:Unibet JoinUs
+
+Scenario: Unibet registration
+Given I go to "http://bet.unibet.co.uk" on "firefox"
+And I click on "unibetjoinuslocator"
+And I enter text into "unibetfirstNametextboxlocator" as "unibetfirstName"
+And I enter text into "unibetuserNametextboxlocator" as "unibetuserName"
+
+And I enter text into "unibetlastNametextboxlocator" as "unibetlastName"
+And I enter text into "unibetstreettextboxlocator" as "unibetstreet"
+And I enter text into "unibetemailtextboxlocator" as "unibetemail"
+
+And I enter text into "unibetpostalCodetextbuttonlocator" as "unibetpostalCode"
+And I enter text into "unibetcitytextboxlocator" as "unibetcity"
+And I enter text into "unibetpasswordtextboxlocator" as "unibetpassword"
+And I enter text into "unibetconfirm-passwordtextboxlocator" as "unibetconfirm-password"
+And I enter text into "unibetphoneNumbertextboxlocator" as "unibetphoneNumber"
+And I_select_value_from_drop_down_is into "unibetdaylocator" as "unibetday"
+And I_select_value_from_drop_down_is into "unibetmonthlocator" as "unibetmonth"
+And I_select_value_from_drop_down_is into "unibetyearlocator" as "unibetyear"
+And I enter text into "unibetsecurityanswerlocator" as "unisecurityanswer"
+And I click on "unibetgenderradioButtonlocatormale"
+And I click on "unibetbonusyeslocator"
+And I click on "unibetagreetermslocator"
+And I_am_waiting
+And I click on "unibetsubmitcontinuebuttonlocator"
+Then Search should be "unibetwelcometxt"

@@ -1,0 +1,116 @@
+2014-10-27 16:39:52,103 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-27 16:39:52,133 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://172.24.2.38:9090/Login.aspx
+2014-10-27 16:41:56,288 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-27 16:41:56,288 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://172.24.2.38:9090/Login.aspx
+2014-10-27 16:52:27,959 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-27 16:52:27,962 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://172.24.2.38:9090/Login.aspx
+2014-10-28 12:47:13,449 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:47:13,469 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://172.24.2.38:9090/Login.aspx
+2014-10-28 12:48:16,702 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:48:16,704 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com/users/register.aspx
+2014-10-28 12:48:39,382 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:48:39,382 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com/users/register.aspx
+2014-10-28 12:48:57,216 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:48:57,216 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com
+2014-10-28 12:49:13,370 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:49:13,370 [main] INFO  com.compugain.test.Yahoo_Login - The url value is https://www.guerrillamail.com
+2014-10-28 12:51:26,332 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:51:26,334 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com/users/register.aspx
+2014-10-28 12:51:46,601 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:51:46,602 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com/users/register.aspx
+2014-10-28 12:51:58,909 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:51:58,909 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com
+2014-10-28 12:52:11,621 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 12:52:11,622 [main] INFO  com.compugain.test.Yahoo_Login - The url value is https://www.guerrillamail.com
+2014-10-28 13:00:58,259 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 13:00:58,261 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com/users/register.aspx
+2014-10-28 13:01:18,905 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 13:01:18,906 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com/users/register.aspx
+2014-10-28 13:01:33,148 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 13:01:33,149 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://www.carwale.com
+2014-10-28 13:01:49,103 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 13:01:49,103 [main] INFO  com.compugain.test.Yahoo_Login - The url value is https://www.guerrillamail.com
+2014-10-28 14:17:01,174 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 14:17:01,177 [main] INFO  com.compugain.test.Yahoo_Login - The url value is https://www.guerrillamail.com
+2014-10-28 15:25:32,709 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 15:25:32,709 [main] INFO  com.compugain.test.Yahoo_Login - The url value is https://www.guerrillamail.com
+2014-10-28 15:31:41,359 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 15:31:41,359 [main] INFO  com.compugain.test.Yahoo_Login - The url value is https://www.guerrillamail.com
+2014-10-28 16:15:54,102 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-10-28 16:15:54,102 [main] INFO  com.compugain.test.Yahoo_Login - The url value is https://www.guerrillamail.com
+2014-11-17 16:28:14,447 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 16:28:14,538 [main] INFO  com.compugain.test.Yahoo_Login - The url value is bet.unibet.co.uk
+2014-11-17 16:30:28,390 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 16:30:28,390 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 16:34:11,110 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 16:34:11,110 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 16:37:53,787 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 16:37:53,797 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 16:46:43,225 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 16:46:43,235 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 16:51:24,460 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 16:51:24,470 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 16:52:12,058 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 16:52:12,659 [main] INFO  com.compugain.Utils.WebElements - The value to be selected22
+2014-11-17 16:52:12,669 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 16:52:13,349 [main] INFO  com.compugain.Utils.WebElements - The value to be selectedJuly
+2014-11-17 16:52:13,359 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 16:52:13,950 [main] INFO  com.compugain.Utils.WebElements - The value to be selected1993
+2014-11-17 17:03:56,864 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 17:03:56,864 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 17:04:45,435 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:04:46,201 [main] INFO  com.compugain.Utils.WebElements - The value to be selected22
+2014-11-17 17:04:46,211 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:04:46,841 [main] INFO  com.compugain.Utils.WebElements - The value to be selectedJuly
+2014-11-17 17:04:46,851 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:04:47,374 [main] INFO  com.compugain.Utils.WebElements - The value to be selected1993
+2014-11-17 17:06:04,984 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 17:06:04,994 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 17:06:55,019 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:06:55,653 [main] INFO  com.compugain.Utils.WebElements - The value to be selected22
+2014-11-17 17:06:55,663 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:06:56,333 [main] INFO  com.compugain.Utils.WebElements - The value to be selectedJuly
+2014-11-17 17:06:56,334 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:06:56,834 [main] INFO  com.compugain.Utils.WebElements - The value to be selected1993
+2014-11-17 17:08:30,051 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 17:08:30,051 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 17:09:15,445 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:09:16,206 [main] INFO  com.compugain.Utils.WebElements - The value to be selected22
+2014-11-17 17:09:16,216 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:09:16,906 [main] INFO  com.compugain.Utils.WebElements - The value to be selectedJuly
+2014-11-17 17:09:16,916 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:09:17,367 [main] INFO  com.compugain.Utils.WebElements - The value to be selected1993
+2014-11-17 17:42:44,228 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 17:42:44,228 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 17:43:43,735 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:43:44,406 [main] INFO  com.compugain.Utils.WebElements - The value to be selected22
+2014-11-17 17:43:44,406 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:43:44,859 [main] INFO  com.compugain.Utils.WebElements - The value to be selectedJuly
+2014-11-17 17:43:44,859 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:43:45,300 [main] INFO  com.compugain.Utils.WebElements - The value to be selected1993
+2014-11-17 17:45:10,612 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 17:45:10,622 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 17:46:00,907 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:46:01,560 [main] INFO  com.compugain.Utils.WebElements - The value to be selected22
+2014-11-17 17:46:01,560 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:46:02,160 [main] INFO  com.compugain.Utils.WebElements - The value to be selectedJuly
+2014-11-17 17:46:02,170 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:46:02,822 [main] INFO  com.compugain.Utils.WebElements - The value to be selected1993
+2014-11-17 17:46:53,889 [main] INFO  com.compugain.test.Yahoo_Login - The driver value is firefox
+2014-11-17 17:46:53,889 [main] INFO  com.compugain.test.Yahoo_Login - The url value is http://bet.unibet.co.uk
+2014-11-17 17:47:48,418 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:47:49,009 [main] INFO  com.compugain.Utils.WebElements - The value to be selected22
+2014-11-17 17:47:49,009 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:47:49,479 [main] INFO  com.compugain.Utils.WebElements - The value to be selectedJuly
+2014-11-17 17:47:49,480 [main] INFO  com.compugain.Utils.WebElements - In dropdown selection method
+2014-11-17 17:47:49,920 [main] INFO  com.compugain.Utils.WebElements - The value to be selected1993
+2014-11-17 17:48:06,381 [main] INFO  com.compugain.test.Yahoo_Login - Test case is passed
+2014-11-17 17:53:37,757 [main] INFO  com.test.Unibet_StepDefinition - The driver value is firefox
+2014-11-17 17:53:37,757 [main] INFO  com.test.Unibet_StepDefinition - The url value is http://bet.unibet.co.uk
+2014-11-17 17:54:30,431 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 17:54:30,972 [main] INFO  com.Utils.WebElements - The value to be selected22
+2014-11-17 17:54:30,982 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 17:54:31,672 [main] INFO  com.Utils.WebElements - The value to be selectedJuly
+2014-11-17 17:54:31,682 [main] INFO  com.Utils.WebElements - In dropdown selection method
+2014-11-17 17:54:32,423 [main] INFO  com.Utils.WebElements - The value to be selected1993
+2014-11-17 17:54:51,519 [main] INFO  com.test.Unibet_StepDefinition - Test case is passed

@@ -1,0 +1,34 @@
+10
+
+dir
+264
+http://172.24.2.44/ExostarAutomation/Cucumber/src/test/resources/Browser_Binaries
+http://172.24.2.44/ExostarAutomation
+
+
+
+2014-10-08T11:09:16.445770Z
+257
+rohith
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1dc5f5e4-a146-487d-bdcd-725b1ff0fd10
+
+Chrome
+dir
+
+IE
+dir
+
